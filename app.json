@@ -1,0 +1,19 @@
+{
+  "name": "istag.sm",
+  "description": "",
+  "scripts": {
+  },
+  "env": {
+    "123456789": {
+      "generator": "secret"
+    }
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
